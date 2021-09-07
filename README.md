@@ -12,7 +12,7 @@ public class BiggestNumber
   b=S.nextInt();
  System.out.println("Enter the first number:");
   c=S.nextInt();
-ifa>b&&a>c)
+if(a>b&&a>c)
  {
    System.out.println("largest number is:"+a);
 
